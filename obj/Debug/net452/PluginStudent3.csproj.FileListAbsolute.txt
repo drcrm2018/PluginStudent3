@@ -1,9 +1,0 @@
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\obj\Debug\net452\PluginStudent3.csproj.CoreCompileInputs.cache
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\obj\Debug\net452\PluginStudent3.AssemblyInfoInputs.cache
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\obj\Debug\net452\PluginStudent3.AssemblyInfo.cs
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\bin\Debug\net452\PluginStudent3.dll
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\bin\Debug\net452\PluginStudent3.pdb
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\bin\Debug\net452\Microsoft.Crm.Sdk.Proxy.dll
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\bin\Debug\net452\Microsoft.Xrm.Sdk.dll
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\obj\Debug\net452\PluginStudent3.dll
-C:\Users\Student_Admin\source\repos\PluginStudent3\PluginStudent3\obj\Debug\net452\PluginStudent3.pdb
